@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- 🌱 Learnings
+  - Java, Spring  
+- 🤔 Portfolio
+  - [https://www.notion.so/f5b22b58997b4d4cb04097f985132812](https://www.notion.so/f5b22b58997b4d4cb04097f985132812)
 <!--
 **KIM-KYOUNG-OH/KIM-KYOUNG-OH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
