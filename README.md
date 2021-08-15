@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 Learnings
-  - Java, Spring, OS, Network, DB, Algorithm, Data structure, Web  
+  - Java, Spring, JPA, DDD, OS, Network, DB, Algorithm, Data structure, Web Programming  
 - 🤔 Portfolio
   - [https://www.notion.so/f5b22b58997b4d4cb04097f985132812](https://www.notion.so/f5b22b58997b4d4cb04097f985132812)
 - ✍️ Blog
