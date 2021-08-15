@@ -5,8 +5,6 @@
   - [https://www.notion.so/f5b22b58997b4d4cb04097f985132812](https://www.notion.so/f5b22b58997b4d4cb04097f985132812)
 - ✍️ Blog
   - [https://steadycode.tistory.com/](https://steadycode.tistory.com/)  
-- 📗 TIL(Notion)  
-  - [https://congruous-motorcycle-b5d.notion.site/TIL-09035c363500461ab4aff0bbbb423d19](https://congruous-motorcycle-b5d.notion.site/TIL-09035c363500461ab4aff0bbbb423d19)  
 <!--
 **KIM-KYOUNG-OH/KIM-KYOUNG-OH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
