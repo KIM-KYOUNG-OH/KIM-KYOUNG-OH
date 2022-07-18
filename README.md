@@ -1,6 +1,5 @@
 ### Hi there 👋
-- 🤔 Portfolio
-  - [https://www.notion.so/f5b22b58997b4d4cb04097f985132812](https://www.notion.so/f5b22b58997b4d4cb04097f985132812)
+👉 [Portfolio](https://tree-anteater-0ff.notion.site/94167dec7ed14218a5a921f07513cbd4)
 
 <!--
 **KIM-KYOUNG-OH/KIM-KYOUNG-OH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
